@@ -1,5 +1,5 @@
 Salut Samir,
-C'est le premier fichier.
+C'est le premier fichier du repo.
 
 Salut Laurent,
 J'ai bien reçu ton fichier text
