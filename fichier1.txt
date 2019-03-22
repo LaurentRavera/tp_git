@@ -1,2 +1,5 @@
 Salut Samir,
 C'est le premier fichier.
+
+Salut Laurent,
+J'ai bien reçu ton fichier text
